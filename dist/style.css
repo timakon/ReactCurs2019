@@ -1,0 +1,9 @@
+.nav-item{
+    background: beige;
+}
+.active{
+    background: black;
+    color: white;
+}.main{
+    background: green;
+}
